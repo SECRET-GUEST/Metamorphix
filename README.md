@@ -11,7 +11,7 @@ python 3.10
 
 Metamorphix 🧪 is a miscellaneous collection of scripts I occasionally find myself using. They are pieced together from various scripts and have been managed by a GPT model for coherence. I haven't tested them all, but they should all work as intended.
 
-![image](https://github.com/SECRET-GUEST/Metamorphix/assets/92639080/6e90c80a-60a9-462f-bf12-ff76e1a472db)
+![image](https://github.com/SECRET-GUEST/Metamorphix/assets/92639080/1800a792-2008-478c-b13b-9a50300e9fa2)
 
 ## Description 📖
 
