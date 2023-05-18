@@ -10,7 +10,7 @@ python 3.10
 ![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.x-green.svg)
 
-Metamorphix 🧪 is a miscellaneous collection of scripts I occasionally find myself using. They are pieced together from various scripts and have been managed by a GPT model for coherence. I haven't tested them all, but they should all work as intended.
+Metamorphix 🧪 is a miscellaneous collection of scripts I occasionally find myself using for AI training or else. They are pieced together from various scripts and have been managed by a GPT model for coherence. I haven't tested them all, but they should all work as intended.
 
 ![image](https://github.com/SECRET-GUEST/Metamorphix/assets/92639080/1800a792-2008-478c-b13b-9a50300e9fa2)
 
