@@ -28,7 +28,7 @@ The scripts included in this project cover a range of functionality, such as:
 - Image resizing
 - Converting ARW to JPG
 - Pixelating images
-- Converting videos to GIFs
+- Converting videos to GIFs (currently not working)
 - Markdown to HTML conversion
 - MP3 to WAV conversion
 
